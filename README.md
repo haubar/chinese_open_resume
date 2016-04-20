@@ -1,0 +1,1 @@
+# chinese_open_resume
