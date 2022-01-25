@@ -1,1 +1,1 @@
-# chinese_open_resume
+# public resume
